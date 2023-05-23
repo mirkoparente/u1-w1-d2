@@ -4,7 +4,7 @@
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 header {
-  padding: 1.5em;
+  padding: 1em;
   background-color: rgba(0, 0, 0, 0.063);
 }
 img {
@@ -14,8 +14,10 @@ img {
 h1 {
   text-align: center;
   padding: 2em;
+  font-size: 2em;
+}
+h4 {
   margin-bottom: 2em;
-  font-size: 3em;
 }
 nav {
   display: inline-flex;
